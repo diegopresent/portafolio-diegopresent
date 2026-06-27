@@ -60,7 +60,7 @@ const Hero = () => {
                 <LinkedinIcon className="size-6" />
               </a>
               <a
-                href="/CV_Luis_Diego_Condori_Ing_Sistemas.pdf"
+                href="/cv-luis-diego-condori-Ing_Sistemas_1.4.pdf"
                 download
                 className="flex items-center gap-2 px-6 py-2.5 bg-blue-600 hover:bg-blue-500 text-white rounded-full text-sm font-bold transition-all hover:scale-105 shadow-xl shadow-blue-500/20"
               >

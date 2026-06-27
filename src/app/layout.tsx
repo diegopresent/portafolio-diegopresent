@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Luis Diego | Full Stack Developer & Systems Engineer",
-  description: "Especialista en React, Node.js y arquitecturas escalables. Mira mis proyectos y trayectoria como Ingeniero de Sistemas.",
+  title: "Luis Diego | Full Stack Developer",
+  description: "Portafolio profesional de Luis Diego, Ingeniero de Sistemas especializado en desarrollo web Full Stack.",
   keywords: ["Full Stack Developer", "Ingeniero de Sistemas", "React", "Node.js", "Santa Cruz", "Bolivia", "Software Engineer"],
   authors: [{ name: "Luis Diego CF" }],
   openGraph: {
