@@ -86,10 +86,10 @@ export const projects: Project[] = [
       "Arquitectura de alto rendimiento con Next.js 16, Prisma ORM y Smart Cache"
     ],
     tech: ["Next.js 16", "React 19", "TypeScript", "Prisma ORM", "Tailwind CSS", "Gemini AI", "API-Football"],
-    browserUrl: "https://apex-football-pro.vercel.app",
+    browserUrl: "https://apexfutbol.vercel.app",
     status: "En Producción",
     links: {
-      demo: "https://apex-football-pro.vercel.app/",
+      demo: "https://apexfutbol.vercel.app/",
       repoFrontend: "https://github.com/diegopresent/apex-football",
       repoBackend: null
     },
